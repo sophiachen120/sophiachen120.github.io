@@ -1,0 +1,23 @@
+---
+layout: default
+title: Dev Blog
+---
+
+<h1>My Development Blog</h1>
+
+<p>Welcome to my project log! This blog documents my journey, including ideas, breakthroughs, bugs, and reflections. I started this during the Final Quest project and may continue updating it in the future.</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
