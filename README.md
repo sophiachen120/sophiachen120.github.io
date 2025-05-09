@@ -48,12 +48,18 @@ Your website should appear within a few minutes at:
 
 Making a change to [_config.yml](./_config.yml) (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable within 5 minutes at <https://myusername.github.io>.
 
+### Step 5) Edit Your Landing Page
 
-### Step 5) Write Your First Blog Post
+1.	Click into the [index.html](./index.html) file.
+2.	Click the ✏️ icon (top right) to edit.  
+3.	Fill in the blanks. 
+4.	Commit the change! 
+
+### Step 6) Write Your First Blog Post
 
 1.	Click into the [_posts/](./_posts/)  folder.
 2.	Edit the file called 2025-05-07-motivation.md
-3.	Answer the questions in the template using Markdown. https://www.markdownguide.org/basic-syntax/
+3.	Answer the questions in the template using Markdown. 
 4.	Commit the change! 
 
 🔗 Need help with formatting? Try this guide:
@@ -74,7 +80,7 @@ year-month-day-title.md (e.g., 2025-05-10-day-2.md)
 This is how Jekyll knows to treat it as a blog post.
 
 
-### Step 6) Your Final Blog Post
+### Step 7) Your Final Blog Post
 
 1.	Click into the [_posts/](./_posts/)  folder.
 2.	Edit the file called 2025-05-23-tip.md
