@@ -16,7 +16,6 @@ This project was part of my final quest in [course name], and it reflects what I
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
 🛠️ [Source Code (GitHub)](https://github.com/YOURUSERNAME/YOURPROJECT)  
-⏯️ [Demo (if any)](demo.html)
 
 ## Dev Log
 
