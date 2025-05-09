@@ -9,7 +9,7 @@ Go to github.com and sign up for a free account. Choose a username you’re okay
 ### Step 2) Copy This Template to Your Account
 
 1.	Sign in to GitHub.
-2.	Visit this repository (your teacher will provide the link).
+2.	Visit this repository.
 3.	Click the “Fork” button in the top-right corner. This creates a copy of the site under your own GitHub account.
 
 ### Step 3) Rename Your Repository
