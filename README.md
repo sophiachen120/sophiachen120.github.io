@@ -2,6 +2,8 @@
 
 This is a template site for your **Final Quest** project. You’ll use it to track your progress, reflect on your work, and share your final product. You’re free to modify the content, layout, and style as long as it stays in a GitHub repository and includes your required blog posts.
 
+**READ THIS THROUGH ONCE BEFORE YOU GET STARTED!**
+
 ### Step 1) Create a GitHub Account
 
 Go to github.com and sign up for a free account. Choose a username you’re okay sharing in a public URL (e.g., myusername).
