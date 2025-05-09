@@ -13,7 +13,7 @@ This project was part of my final quest in [course name], and it reflects what I
 **Project Title:** *[Name it!]*   
 **One-line pitch:** [“A game where you…” or “A project that lets you…”]
 
-> Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
+> Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
 🛠️ [Source Code (GitHub)](https://github.com/YOURUSERNAME/YOURPROJECT)  
 ⏯️ [Demo (if any)](demo.html)
