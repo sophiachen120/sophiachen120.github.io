@@ -47,7 +47,7 @@ Your website should appear within a few minutes at:
 Making a change to [_config.yml](./_config.yml) (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable within 5 minutes at <https://myusername.github.io>.
 
 
-### Step 5) Write Your First Blog Poast
+### Step 5) Write Your First Blog Post
 
 1.	Click into the [_posts/](./_posts/)  folder.
 2.	Edit the file called 2025-05-07-motivation.md
