@@ -3,9 +3,6 @@ layout: default
 title: Final Chronicle
 ---
 
-* TOC
-{:toc}
-
 ## About Me
 
 Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
@@ -13,12 +10,10 @@ This project was part of my final quest in [course name], and it reflects what I
 
 ## About My Project
 
-**Project Title:** *[Name it!]*  
-**Genre/Type:** [e.g., puzzle game, simulation, story-based quest]  
+**Project Title:** *[Name it!]*   
 **One-line pitch:** [“A game where you…” or “A project that lets you…”]
 
-> Curious about what I’d do differently or recommend to others?  
-> Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
+> Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/YYYY-MM-DD-final-tip.md)
 
 🛠️ [Source Code (GitHub)](https://github.com/YOURUSERNAME/YOURPROJECT)  
 ⏯️ [Demo (if any)](demo.html)
