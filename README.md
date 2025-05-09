@@ -50,7 +50,7 @@ Making a change to [_config.yml](./_config.yml) (or any file in your repository)
 
 ### Step 5) Edit Your Landing Page
 
-1.	Click into the [index.html](./index.html) file.
+1.	Click into the [index.md](./index.md) file.
 2.	Click the ✏️ icon (top right) to edit.  
 3.	Fill in the blanks. 
 4.	Commit the change! 
