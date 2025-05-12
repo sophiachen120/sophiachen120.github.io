@@ -5,30 +5,26 @@ title: "Day 0 - Planning"
 
 ### Project Focus
 
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
+For my Final Quest, I will be building a text-based 2048 game which users can play using arrow buttons on their keyboard. For those unfamiliar with the game, 2048 involves a 4x4 grid with number tiles that the user can move up, left, right, or down in order to combine two tiles of identical value into a single tile of their values' sum.
 
 ---
 
 ### Why This Project 
 
-[What drew you to this idea? How does it connect to something you’re interested in—whether in or outside of class? Why is this the right project for *you* to work on right *now*?]
+I am extremely good at 2048 and play it all the time, which is why I decided on this idea for my Final Quest. I believe this project will be a perfect difficulty for me -- challenging enough to engage my mind and teach me something, while also building upon concepts I learned in class.
 
 ---
 
 ### What I Want to Learn
 
-[What programming concepts do you want to strengthen through this project (e.g., functions, conditionals, loops, data structures)?  
-Beyond coding, what personal or creative skills are you hoping to build—like debugging, problem solving, design, or perseverance?]
-
-
+For this project I would like to learn to use the pygame module. Also, I will continue to develop my design skills to implement my code elegantly and effectively.
 
 ### My Approach 
 
-[How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
-What does “done enough” look like to you—and how will you decide when to stop polishing?]
+For the next two weeks I plan to work 1 hour at least, every other day. First I will focus on learning pygame, then I will focus on my implementation. When I have achieved a functional code that successfully creates a playable 2048 with no functional differences from the "real" 2048, I will consider my project done. It does not, however, need to look identical.
 
 ---
 
 ### What's Next
 
-[What do you plan to tackle in the next stage of your project?]
+First I will look into pygame tutorials to see how to incorporate the user's keyboard into my code.
