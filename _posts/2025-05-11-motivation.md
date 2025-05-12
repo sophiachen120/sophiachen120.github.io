@@ -21,7 +21,7 @@ For this project I would like to learn to use the pygame module. Also, I will co
 
 ### My Approach 
 
-For the next two weeks I plan to work 1 hour at least, every other day. First I will focus on learning pygame, then I will focus on my implementation. When I have achieved a functional code that successfully creates a playable 2048 with no functional differences from the "real" 2048, I will consider my project done. It does not, however, need to look identical.
+For the next THREE DAYS I plan to work 1 hour per day. First I will focus on learning pygame, then I will focus on my implementation. When I have achieved a functional code that successfully creates a playable 2048 with no functional differences from the "real" 2048, I will consider my project done. It does not, however, need to look identical.
 
 ---
 
