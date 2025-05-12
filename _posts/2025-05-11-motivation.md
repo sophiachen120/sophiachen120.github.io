@@ -19,12 +19,30 @@ I am extremely good at 2048 and play it all the time, which is why I decided on 
 
 For this project I would like to learn to use the pygame module. Also, I will continue to develop my design skills to implement my code elegantly and effectively.
 
+---
+
 ### My Approach 
 
 For the next 5 days I plan to work 1 hour per day. First I will focus on my implementation by using user input text (in case I don't have time to finish the pygame tutorial). Then I will switch focus to learning about pygame. When I have achieved a functional code that successfully creates a playable 2048 with no functional differences from the "real" 2048, I will consider my project done. It does not, however, need to look identical.
+
+My code will essentially work through 5 different functions; 4 for each directional movement and 1 for incorporating pygame and putting everything together. A timeline of my next five days is below.
+
+---
+
+### Timeline
+
+Day 1 - code left().
+
+Day 2 - code right(), up(), and down(), based on left().
+
+Day 3 - study pygame tutorial on keyboard interaction.
+
+Day 4 - incorporate pygame into my colab notebook.
+
+Day 5 - revise all code for elegance, efficiency and efficacy.
 
 ---
 
 ### What's Next
 
-First I will look into pygame tutorials to see how to incorporate the user's keyboard into my code.
+Day one will include coding left() in Colab.
