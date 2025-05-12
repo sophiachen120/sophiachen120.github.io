@@ -6,7 +6,7 @@
 name: Sophia Chen
 
 # Short bio or description (displayed in the header)
-description: [change this]
+description: Student @ University of Illinois Laboratory High School
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # you only have to change your email.
 footer-links:
   dribbble: 
-  email: yourmail@mail.com
+  email:
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
