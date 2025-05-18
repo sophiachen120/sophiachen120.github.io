@@ -4,7 +4,6 @@ import random
 
 root = tk.Tk()
 
-#always do this and remember it to set the geometry of the window
 root.geometry('800x700')
 root.title("New world")
 
@@ -13,15 +12,10 @@ label = tk.Label(root, text="Play 2048\nUse the arrow keys to combine tiles", fo
 label.pack(padx=20, pady=20)
 
 
-#Making grid of buttons
-#now making a frame for the button
+#making a frame for the button
 buttonframe = tk.Frame(root)
 
-#keyboard prompts
-
-
 score = 0
-
 board = [[0, 0, 0, 0],
          [0, 0, 0, 0],
          [0, 0, 0, 0],
@@ -49,12 +43,16 @@ def color(number: int) -> str:
     """
     # teal, turquoise, denim blue, navy, plum, purple, mauve, magenta
     colors = ["#3ca6a7", "#3c88a7", "#234e9f", "dark slate blue", "#713ca7", "#913ca7", "#a73c78", "plum"]
+    
     if number == 0:
         return "white"
+             
     if number > 2048:
         return colors[-1]
+             
     if number > 64:
         return colors[-2]
+             
     for i in range(6):
         if 2 ** (i + 1) == number:
             return colors[i]
@@ -500,6 +498,7 @@ def right(event) -> None:
     """
     global score
     global board
+         
     initial_board = copy.deepcopy(board)
     score += right_move(board)[1]
     board = right_move(board)[0]
@@ -520,9 +519,10 @@ def down(event) -> None:
         None
     """
 
-    #to avoid altering the initial board in conditional checks
     global score
     global board
+    
+    #to avoid altering the initial board in conditional checks
     initial_board = copy.deepcopy(board)
     score += down_move(board)[1]
     board = down_move(board)[0]
@@ -597,17 +597,21 @@ def print_board() -> None:
         for j in range(4):
             item = ele[j]
             tilelabel = tk.Label(buttonframe, text=f"{item}", font =("Times New Roman", 20), width = 10, height = 5, bg = color(item), relief = tk.SOLID, borderwidth = 1, fg = "white")
-            tilelabel.grid(row=i, column=j) #, sticky=tk.W + tk.E
+            tilelabel.grid(row=i, column=j)
+                 
     global scorelabel
+         
     if done() == True and 'scorelabel' in globals():
         scorelabel.destroy()
         scorelabel = tk.Label(root, text=f"Game over! Your score was: {score}", font=('Times New Roman', 15))
         scorelabel.pack(padx=20, pady=20)
+             
     else:
         if 'scorelabel' in globals():
             scorelabel.destroy()
         scorelabel = tk.Label(root, text=f"Your score is: {score}", font=('Times New Roman', 15))
         scorelabel.pack(padx=20, pady=20)
+             
     buttonframe.pack(padx = 20, pady = 20)
 
 def done() -> bool:
