@@ -17,9 +17,9 @@ This project was part of my final quest in Computer Programming Fundamentals, an
 
 **Before accessing my code, read [the README file in my repository](https://github.com/sophiachen120/sophiachen120.github.io/blob/main/files/README.md).**
 
-🛠️ [Source Code (GitHub)](https://github.com/sophiachen120/sophiachen120.github.io/blob/main/source_code.py)
+🛠️ [Source Code (pycharm.py)]([https://github.com/sophiachen120/sophiachen120.github.io/blob/main/source_code.py](https://github.com/sophiachen120/sophiachen120.github.io/blob/main/files/pycharm.py))
 
-[Source Code (Colab)](https://colab.research.google.com/drive/13TmwErEa3VGRUbs9daIMrnWU4znbHrdU?usp=sharing)
+🛠️ [Source Code (colab.ipynb)](https://github.com/sophiachen120/sophiachen120.github.io/blob/main/files/colab.ipynb)
 
 ## Dev Log
 
