@@ -1,4 +1,4 @@
-This repository contains the files for my 2048 game and blog posts outlining my building process of the game as part of the Final Quest in my Computer Programming Fundamentals course. I recommend reading the blog posts first, found at sophiachen120.github.io, before finding my source code, linked at either at my blog's home page or down below. Follow the instructions below to properly access and run the code.
+This repository contains the files for my 2048 game and blog posts outlining my building process of the game as part of the Final Quest in my Computer Programming Fundamentals course. I recommend reading the blog posts first, found at [sophiachen120.github.io](https://sophiachen120.gihtub.io), before finding my source code, linked at either at my blog's home page or down below. Follow the instructions below to properly access and run the code.
 
 To access the Colab notebook:
 * Download the file [colab.ipynb](https://github.com/sophiachen120/sophiachen120.github.io/blob/main/files/colab.ipynb)
